@@ -1,0 +1,1 @@
+import{j as e,L as a}from"./index-BIsKxATe.js";function l({title:s}){return e.jsxs("main",{className:"page",children:[e.jsx("p",{className:"eyebrow",children:"声屿 · 你的个人演唱会"}),e.jsx("h1",{children:s}),e.jsx(a,{className:"text-link",to:"/",children:"返回首页 →"})]})}export{l as default};
